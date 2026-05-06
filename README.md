@@ -35,10 +35,10 @@ In this stage, the selected models were trained and optimized using a complete m
 * LightGBM
 * XGBoost
 
-### 6. Hyperparameter Tuning
+### 5. Hyperparameter Tuning
 Hyperparameter tuning was performed using Optuna to systematically search for the best model configurations. The objective was to maximize model performance while ensuring generalization on unseen data.
 
-### 8. Evaluation Strategy
+### 6. Evaluation Strategy
 Due to class imbalance, the following metrics were used:
 * F1 Macro Score
 * Precision-Recall AUC (PR AUC)
