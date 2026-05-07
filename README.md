@@ -44,3 +44,6 @@ Due to class imbalance, the following metrics were used:
 * Precision-Recall AUC (PR AUC)
 
 ## Best Model: XGBoost
+The best-performing model was XGBoost achieving:
+* Macro F1 Score: 0.7518
+* PR AUC Score: 0.668
